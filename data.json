@@ -1,0 +1,12 @@
+[
+  {
+    "Number": "AC1234567890",
+    "Owner": "John Doe",
+    "Balance": 1000.50
+  },
+  {
+    "Number": "AC9876543210",
+    "Owner": "Jane Smith",
+    "Balance": 1500.25
+  }
+]
